@@ -5,5 +5,5 @@ Welcome to the Boats of the Ocean dev blog, here we will post dank memes and som
 ## Early picture of one starting base
 ### 2017-01-18
 
-
+<a href="https://drive.google.com/open?id=0B3qR16U8YIDdWjRrcllmdTRXbm8"><img src="https://drive.google.com/open?id=0B3qR16U8YIDdWjRrcllmdTRXbm8"></a>
 ![Branching](https://drive.google.com/open?id=0B3qR16U8YIDdWjRrcllmdTRXbm8)
