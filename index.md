@@ -1,9 +1,10 @@
-# BotO Dev Blog
+# Ahoy!
 
-Welcome to the Boats of the Ocean dev blog, here we will post dank memes and sometimes upload pictures of our game development. Be safe!
+Welcome to the Boats of the Ocean dev blog, here we will post dank memes and sometimes upload pictures of our game development. Be safe and don't sink!
+* * *
 
-## Early picture of one starting base
-### 2017-01-18
+# Early picture of empire starting base
+2017-01-18
 
-<a href=""><img src="assets/images/2017-01-18-EmpireBaseMockup.PNG"></a>
-![Branching](https://drive.google.com/open?id=0B3qR16U8YIDdWjRrcllmdTRXbm8)
+<a href="assets/images/2017-01-18-EmpireBaseMockup.PNG"><img src="assets/images/2017-01-18-EmpireBaseMockup.PNG"></a>
+* * *
