@@ -6,4 +6,5 @@ Welcome to the Boats of the Ocean dev blog, here we will post dank memes and som
 # Early picture of empire starting base
 2017-01-18
 
-<a href="2017-01-18-EmpireBaseMockup_.png"><img src="2017-01-18-EmpireBaseMockup_.png"></a>
+<a href="assets/images/2017-01-18-EmpireBaseMockup_.png"><img src="assets/images/2017-01-18-EmpireBaseMockup_.png"></a>
+* * *
